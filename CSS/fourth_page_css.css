@@ -1,0 +1,278 @@
+.Meet_our_team{
+    position: absolute;
+    width: 453px;
+    height: 86px;
+    left: 519px;
+    top: 2938px;
+    /* text attribute */
+    background: linear-gradient(180deg, white 27.85%, #FED191 100%);
+    font-size: 64px;
+    font-weight: 500;
+    font-family: Arial;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.ava1{
+    position: absolute;
+    width: 345px;
+    height: 337px;
+    top: 3054px;
+    left: 203px;
+}
+
+.ava2{
+    position: absolute;
+    width: 305px;
+    height: 293px;
+    top: 3054px;
+    left: 589px;
+}
+
+.ava3{
+    position: absolute;
+    width: 401px;
+    height: 381px;
+    top: 3054px;
+    left: 939px;
+    margin-left: 50px;
+}
+
+.ava4{
+    position: absolute;
+    width: 329px;
+    height: 493px;
+    top: 3789px;
+    left: 213px;
+}
+
+.ava5{
+    position: absolute;
+    width: 273px;
+    height: 390px;
+    top: 3789px;
+    left: 613px;
+    margin-left: -10px;
+}
+
+.ava6{
+    position: absolute;
+    width: 288px;
+    height: 308px;
+    top: 3789px;
+    left: 991px;
+}
+
+.ava1 img, .ava2 img,.ava3 img,.ava4 img ,.ava5 img ,.ava6 img{
+    border-radius: 50%; 
+    width: 250px;
+    max-height: 300px;
+}
+
+.name1{
+    position: absolute;
+    width: 302px;
+    height: 93px;
+    top: 3427px;
+    left: 233px;
+    background: rgba(255, 255, 255, 0.5);
+    border: 2px solid #FFCC56;
+    margin-left: -60px;
+}
+
+.name2{
+    position: absolute;
+    width: 302px;
+    height: 93px;
+    top: 3427px;
+    left: 603px;
+    background: rgba(255, 255, 255, 0.5);
+    border: 2px solid #FFCC56;
+    margin-left: -40px;
+}
+
+.name3{
+    position: absolute;
+    width: 302px;
+    height: 93px;
+    top: 3427px;
+    left: 975px;
+    background: rgba(255, 255, 255, 0.5);
+    border: 2px solid #FFCC56;
+    margin-left: -10px;
+}
+
+.name4{
+    position: absolute;
+    width: 302px;
+    height: 93px;
+    top: 4227px;
+    left: 233px;
+    background: rgba(255, 255, 255, 0.5);
+    border: 2px solid #FFCC56;
+    margin-left: -60px;
+}
+
+.name5{
+    position: absolute;
+    width: 302px;
+    height: 93px;
+    top: 4227px;
+    left: 603px;
+    background: rgba(255, 255, 255, 0.5);
+    border: 2px solid #FFCC56;
+    margin-left: -40px;
+}
+
+.name6{
+    position: absolute;
+    width: 302px;
+    height: 93px;
+    top: 4227px;
+    left: 975px;
+    background: rgba(255, 255, 255, 0.5);
+    border: 2px solid #FFCC56;
+    margin-left: -10px;
+}
+
+#id1{
+    width: 240px;
+    height: 63px;
+    left: 253px;
+    top: 3634px;
+    position: absolute;
+}
+
+#id2{
+    width: 240px;
+    height: 63px;
+    left: 643px;
+    top: 3634px;
+    position: absolute;
+}
+
+#id3{
+    width: 240px;
+    height: 63px;
+    left: 1046px;
+    top: 3634px;
+    position: absolute;
+}
+
+#id4{
+    width: 240px;
+    height: 63px;
+    left: 253px;
+    top: 4458px;
+    position: absolute;
+}
+
+#id5{
+    width: 240px;
+    height: 63px;
+    left: 643px;
+    top: 4458px;
+    position: absolute;
+}
+#id6{
+    width: 240px;
+    height: 63px;
+    left: 1046px;
+    top: 4458px;
+    position: absolute;
+}
+
+.quote{
+    font-family: 'Mulish';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22.6px;
+    color: white;
+    margin-top: -30px;
+    margin-left: -30px;
+}
+
+.icon_1{
+    position: absolute;
+    left: 280px;
+    top: 3375px;
+    background-color: #3F4C6C;
+}
+
+.icon_2{
+    position: absolute;
+    left: 664px;
+    top: 3375px;
+    background-color: #3F4C6C;
+}
+
+.icon_3{
+    position: absolute;
+    left: 1075px;
+    top: 3375px;
+    background-color: #3F4C6C;
+}
+
+.icon_4{
+    position: absolute;
+    left: 280px;
+    top: 4135px;
+    background-color: #3F4C6C;
+}
+
+.icon_5{
+    position: absolute;
+    left: 664px;
+    top: 4135px;
+    background-color: #3F4C6C;
+}
+
+.icon_6{
+    position: absolute;
+    left: 1075px;
+    top: 4135px;
+    background-color: #3F4C6C;
+}
+
+.fa-quote-right{
+    font-size: 30px;
+    color: white;
+}
+
+#quote_1{
+    position: absolute;
+    left: 192px;
+    top: 3562px;
+}
+
+#quote_2{
+    position: absolute;
+    left: 585px;
+    top: 3562px;
+}
+
+#quote_3{
+    position: absolute;
+    left: 987px;
+    top: 3562px;
+}
+
+#quote_4{
+    position: absolute;
+    left: 192px;
+    top: 4385px;
+}
+
+#quote_5{
+    position: absolute;
+    left: 585px;
+    top: 4385px;
+}
+
+#quote_6{
+    position: absolute;
+    left: 987px;
+    top: 4385px;
+}

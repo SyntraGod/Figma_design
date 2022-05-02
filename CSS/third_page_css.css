@@ -1,0 +1,81 @@
+.big_content{
+    position: absolute;
+    width: 407px;
+    height: 78px;
+    top: 2077px;
+    left: 555px;
+    /* text attribute */
+    font-size: 64px;
+    line-height: 88px;
+    font-weight: 500;
+    font-family: Arial;
+    background: linear-gradient(180deg, #FFFFFF 14.77%, #FED191 76.14%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.element1 {
+    position: absolute;
+    left: 119px;
+    top: 2233px;
+    width: 1278px;
+    height: 202px;
+    background: linear-gradient(90deg, rgba(221, 147, 174, 0.8) 1.32%, rgba(252, 234, 149, 0.8) 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 40px 0px 0px 0px;
+}
+
+.element2 {
+    position: absolute;
+    left: 119px;
+    top: 2454px;
+    width: 1278px;
+    height: 202px;
+    background: linear-gradient(90deg, rgba(221, 147, 174, 0.8) 0%, rgba(252, 234, 149, 0.8) 100%);
+}
+
+.element3 {
+    position: absolute;
+    left: 119px;
+    top: 2681px;
+    width: 1278px;
+    height: 202px;
+    background: linear-gradient(90deg, rgba(221, 147, 174, 0.8) 0%, rgba(252, 234, 149, 0.8) 100%);
+    border-radius: 0px 0px 40px 0px;
+    margin-top: -6px;
+}
+
+.text{
+    color: white;
+    font-size: 32px;
+    margin-top: 82px;
+    text-align: center;
+}
+
+.icon{
+    /* coolicon */
+
+    position: absolute;
+    left: 29.17%;
+    right: 50%;
+    top: 60.42%;
+    bottom: -2.08%;
+
+    /* Shade / 700 */
+    background: #2E3A59;
+    transform: rotate(-90deg);
+
+}
+
+.fa-caret-down{
+    color: white;
+    font-size: 40px;
+}
+
+#icon_position{
+    position: absolute;
+    left: 1166px;
+    top: 80.4px;
+} 

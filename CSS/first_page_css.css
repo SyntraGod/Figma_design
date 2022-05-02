@@ -1,0 +1,29 @@
+/* first page */
+.Element1{
+    position: absolute;
+    width: 491px;
+    height: 176px;
+    left: 155px;
+    top: 218px;
+    font-size: 80px;
+    font-family: 'Arial';
+    font-weight: 500;
+    background: linear-gradient(180deg, #FFFFFF 13.92%, #EA95BC 92.05%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.paragraph{
+    position: absolute;
+    width: 518px;
+    height: 96px;
+    left: 155px;
+    top: 422px;
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    line-height: 24px;
+    font-family: 'Bai Jamjuree';
+}

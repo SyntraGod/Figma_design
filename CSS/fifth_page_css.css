@@ -1,0 +1,159 @@
+.about_us{
+    position: absolute;
+    width: 285.79px;
+    height: 105.29px;
+    left: 614.93px;
+    top: 4728px;
+
+    font-family: 'arial';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 88px;
+
+
+    background: linear-gradient(180deg, #FFFFFF 0%, #FED191 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+form{
+    position: absolute;
+    top: 4953.25px;
+    left: 993px;
+    width: 403.47px;
+    height: 465.45px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+::placeholder{
+    color: white;
+    margin-top: -10px;
+    font-size: 18px;
+    margin-left: 25px;
+}
+
+input[type=text]{
+    color: white;
+    font-size: 18px;
+}
+
+.form__heading{
+    position: absolute;
+    width: 107.17px;
+    height: 25.13px;
+    left: 10.51px;
+    top: 32px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #444444;
+    margin-top: -7px;
+}
+
+#input__name{
+    position: absolute;
+    width: 178px;
+    height: 47.86px;
+    left: 10.51px;
+    top: 77.77px;
+    background: #3F4C6C;
+    border-radius: 4px;
+}
+
+#input__email{
+    position: absolute;
+    width: 178px;
+    height: 47.86px;
+    left: 207px;
+    top: 77.77px;
+    background: #3F4C6C;
+    border-radius: 4px;
+}
+#message{
+    position: absolute;
+    width: 378px;
+    height: 122px;
+    left: 10.51px;
+    top: 200px;
+    background-color: #3F4C6C;
+}
+
+#token_number{
+    position: absolute;
+    width: 381.4px;
+    height: 47.86px;
+    left: 10.51px;
+    top: 138.8px;
+    background: #3F4C6C;
+    border-radius: 4px;
+    color: white;
+    font-size: 18px;
+}
+
+#check__box{
+    position: absolute;
+    left: 10.51px;
+    top: 347.83px;
+}
+
+#token_number option{
+    color: white;
+    font-size: 18px;
+}
+
+.submit_button{
+    position: absolute;
+    width: 381.4px;
+    height: 47.86px;
+    left: 10.51px;
+    top: 396.05px;
+    background: #3F4C6C;
+    border-radius: 4px;
+    color: white;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+}
+
+.icon_contact{
+    position: absolute;
+    left: 122px;
+    top: 5376px;
+    background-color: #3F4C6C;
+}
+
+.fa-twitter{
+    /* position: absolute;
+    left: 168px;
+    top: 5422px; */
+    margin-left: 20px;
+    color: white;
+    transform: rotate(90deg);
+    font-size: 30px;
+    background-color: #3F4C6C;
+}
+
+.fa-linkedin-in{
+    color: white;
+    transform: rotate(90deg);
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 30px;
+    background-color: #3F4C6C;
+}
+
+.fa-paper-plane{
+    color: white;
+    transform: rotate(90deg);
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 30px;
+    background-color: #3F4C6C;
+}
